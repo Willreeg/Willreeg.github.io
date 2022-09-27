@@ -1,1 +1,1 @@
-window.location.replace("https://willreeg.github.io/cv.pdf");
+window.location.replace("https://willreeg.github.io/portfolio.pdf");
